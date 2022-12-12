@@ -1,0 +1,10 @@
+footer {
+    background-color: rgba(106, 0, 124, 0.56);
+    color: #fff;
+    padding: 30px;
+    text-align: center;
+}
+
+.hedge_icon {
+    font-size: 30px;
+}
